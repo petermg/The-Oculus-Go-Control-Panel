@@ -1,4 +1,4 @@
-# The-Oculus-Go-Control-Panel
+# The Oculus Go Control Panel
 Internal ADB Utility with a web GUI for the Oculus Go
 Install this on your Oculus Go, which must be in developer / debug mode first.
 Then issue the command "adb tcpip 5555" which enables adb over port 5555 via TCPIP.
